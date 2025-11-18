@@ -16,4 +16,4 @@
 
    - Node.js, PostgreSQL
    - REST API + Figma 기반 UI
-   - [Demo](링크) | [Code](레포 링크)
+   - [Code](레포 링크)
