@@ -12,7 +12,7 @@
 
  
 
-2. Project B
+2. MU+SO
 
    - Node.js, PostgreSQL
    - REST API + Figma 기반 UI
