@@ -68,8 +68,10 @@
 
 ## 📊 GitHub Stats
 
-![msk9912's GitHub stats](https://github-readme-stats.vercel.app/api?username=msk9912&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msk9912&layout=compact&hide_border=true)
+![msk9912's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msk9912&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msk9912&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=msk9912&hide_border=true)
 
 ## 📫 Contact
 
