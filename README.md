@@ -1,18 +1,56 @@
-사용자 경험 중심 웹 서비스를 만드는 백엔드/풀스택 개발자입니다.
+# 안녕하세요, 김명서입니다 👋
 
-## 대표 프로젝트
-1. Local Shorts' [Code](https://github.com/msk9912/hmmproject)
-   - React, Node.js, MySQL, AWS EC2
-   - GoogleMap API 연동 및 지도 데이터 처리
-   - 영상 목록(DB) 연동, 마이페이지 CRUD 기능 개발
-   - 사운드 태그(주파수 인식 기반) 기능 구현
-     
- <img width="195" alt="image" src="https://github.com/user-attachments/assets/2e435e16-7bf4-4a52-9375-1140024518d4" />
+사용자 경험 중심 웹 서비스를 만드는 **백엔드/풀스택 개발자**입니다.
+최근에는 **AI 에이전트 서비스**와 데이터/AI 실습에 관심을 갖고 작업하고 있습니다.
 
+## 🛠 기술 스택
 
- 
+**Backend**
 
-2. MU+SO
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-   - Node.js, PostgreSQL
-   - REST API + Figma 기반 UI
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Database / Infra**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+
+## 📌 대표 프로젝트
+
+### 1. Multi-Agent AI Workspace · [Code](https://github.com/msk9912/MultiAgentFrontend)
+- Vue 3 + Vite 기반 멀티 에이전트 AI 워크스페이스 프론트엔드
+- 여러 AI 에이전트를 하나의 작업 공간에서 활용하는 서비스
+
+### 2. Local Shorts · [Code](https://github.com/msk9912/hmmproject)
+- React, Node.js, MySQL, AWS EC2
+- GoogleMap API 연동 및 지도 데이터 처리
+- 영상 목록(DB) 연동, 마이페이지 CRUD 기능 개발
+- 사운드 태그(주파수 인식 기반) 기능 구현
+
+<img width="195" alt="Local Shorts 스크린샷" src="https://github.com/user-attachments/assets/2e435e16-7bf4-4a52-9375-1140024518d4" />
+
+### 3. MU+SO — 음악 SNS 플랫폼 · [Code](https://github.com/msk9912/Final_Project_15team)
+- Node.js, PostgreSQL
+- 피드 / 채팅 / 음원 스트리밍 기능의 음악 SNS 백엔드
+- REST API 설계 + Figma 기반 UI 협업
+
+### 4. 데이터/AI 실습 모음 · [Code](https://github.com/msk9912/intern)
+- Python 기반 CNN, 매칭 알고리즘, 엑셀 자동화 등 실습 프로젝트
+
+## 📊 GitHub Stats
+
+![msk9912's GitHub stats](https://github-readme-stats.vercel.app/api?username=msk9912&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msk9912&layout=compact&hide_border=true)
+
+## 📫 Contact
+
+- Email: myungseokim9912@gmail.com
