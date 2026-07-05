@@ -11,12 +11,14 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Frontend**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Database / Infra**
 
@@ -30,7 +32,12 @@
 - Vue 3 + Vite 기반 멀티 에이전트 AI 워크스페이스 프론트엔드
 - 여러 AI 에이전트를 하나의 작업 공간에서 활용하는 서비스
 
-### 2. Local Shorts · [Code](https://github.com/msk9912/hmmproject)
+### 2. 작물닥터 농사부 🌿 — 농업 AI 비서 · [Backend](https://github.com/msk9912/NongSabu-Backend) / [Frontend](https://github.com/msk9912/NongSabu-Frontend)
+- 초보·소규모 농가를 위한 AI 병해충 진단 서비스
+- Backend: Spring Boot 3 + FastAPI 이미지 분석 서버 + PostgreSQL(pgvector), Docker Compose 구성
+- Frontend: Vue 3 + Tailwind CSS — 사진 업로드 병해충 진단, AI 상담, 농장 대시보드
+
+### 3. Local Shorts · [Code](https://github.com/msk9912/hmmproject)
 - React, Node.js, MySQL, AWS EC2
 - GoogleMap API 연동 및 지도 데이터 처리
 - 영상 목록(DB) 연동, 마이페이지 CRUD 기능 개발
@@ -38,12 +45,12 @@
 
 <img width="195" alt="Local Shorts 스크린샷" src="https://github.com/user-attachments/assets/2e435e16-7bf4-4a52-9375-1140024518d4" />
 
-### 3. MU+SO — 음악 SNS 플랫폼 · [Code](https://github.com/msk9912/Final_Project_15team)
+### 4. MU+SO — 음악 SNS 플랫폼 · [Code](https://github.com/msk9912/Final_Project_15team)
 - Node.js, PostgreSQL
 - 피드 / 채팅 / 음원 스트리밍 기능의 음악 SNS 백엔드
 - REST API 설계 + Figma 기반 UI 협업
 
-### 4. 데이터/AI 실습 모음 · [Code](https://github.com/msk9912/intern)
+### 5. 데이터/AI 실습 모음 · [Code](https://github.com/msk9912/intern)
 - Python 기반 CNN, 매칭 알고리즘, 엑셀 자동화 등 실습 프로젝트
 
 ## 📊 GitHub Stats
