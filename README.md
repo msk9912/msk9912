@@ -53,6 +53,18 @@
 ### 5. 데이터/AI 실습 모음 · [Code](https://github.com/msk9912/intern)
 - Python 기반 CNN, 매칭 알고리즘, 엑셀 자동화 등 실습 프로젝트
 
+## 📂 기타 프로젝트
+
+| 리포지토리 | 설명 |
+|---|---|
+| [MultiAgentProj](https://github.com/msk9912/MultiAgentProj) | A2A 프로토콜 기반 실전형 멀티 에이전트 시스템 (Python, Orchestrator + LLM Intent 분석) |
+| [Techit_Community](https://github.com/msk9912/Techit_Community) | 멋쟁이사자처럼 Techit 커뮤니티 프로젝트 (Java/Spring) |
+| [metanet-spring-mini-project](https://github.com/msk9912/metanet-spring-mini-project) · [frontend](https://github.com/msk9912/metanet-spring-mini-project-frontend) | 메타넷 스프링 미니프로젝트 (Spring Boot + React/Vite) |
+| [metanet-MLprj](https://github.com/msk9912/metanet-MLprj) | 메타넷 머신러닝 프로젝트 (Jupyter Notebook) |
+| [myungseo](https://github.com/msk9912/myungseo) | 팀/스터디 프로젝트 (Java) |
+| [FlyingSuperBoard](https://github.com/msk9912/FlyingSuperBoard) | 스프링 부트를 이용한 멀티게시판 실습 |
+| [SpringGitExample](https://github.com/msk9912/SpringGitExample) | Spring Boot + Git 연습용 예제 |
+
 ## 📊 GitHub Stats
 
 ![msk9912's GitHub stats](https://github-readme-stats.vercel.app/api?username=msk9912&show_icons=true&theme=default&hide_border=true)
