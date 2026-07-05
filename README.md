@@ -61,7 +61,7 @@
 | [Techit_Community](https://github.com/msk9912/Techit_Community) | 멋쟁이사자처럼 Techit 커뮤니티 프로젝트 (Java/Spring) |
 | [metanet-spring-mini-project](https://github.com/msk9912/metanet-spring-mini-project) · [frontend](https://github.com/msk9912/metanet-spring-mini-project-frontend) | 메타넷 스프링 미니프로젝트 (Spring Boot + React/Vite) |
 | [metanet-MLprj](https://github.com/msk9912/metanet-MLprj) | 보험사기(SIU) 탐지 데이터 분석 — EDA·파생변수 설계·VAE 이상치 탐지 (Python) |
-| [main-project](https://github.com/msk9912/main-project) | AI 이메일 비서 파이프라인 — Gmail 수집 → Gemini 첨부파일 자동분류·요약 → KoNLPy·연관규칙(Apriori/FP-Growth) 발신자 패턴 분석 → networkx 관계망 시각화 |
+| [ai-email-assistant](https://github.com/msk9912/ai-email-assistant) | AI 이메일 비서 파이프라인 — Gmail 수집 → Gemini 첨부파일 자동분류·요약 → KoNLPy·연관규칙(Apriori/FP-Growth) 발신자 패턴 분석 → networkx 관계망 시각화 |
 | [myungseo](https://github.com/msk9912/myungseo) | 팀/스터디 프로젝트 (Java) |
 | [FlyingSuperBoard](https://github.com/msk9912/FlyingSuperBoard) | 스프링 부트를 이용한 멀티게시판 실습 |
 | [SpringGitExample](https://github.com/msk9912/SpringGitExample) | Spring Boot + Git 연습용 예제 |
