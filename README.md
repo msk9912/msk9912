@@ -43,8 +43,6 @@
 - 영상 목록(DB) 연동, 마이페이지 CRUD 기능 개발
 - 사운드 태그(주파수 인식 기반) 기능 구현
 
-<img width="195" alt="Local Shorts 스크린샷" src="https://github.com/user-attachments/assets/2e435e16-7bf4-4a52-9375-1140024518d4" />
-
 ### 4. MU+SO — 음악 SNS 플랫폼 · [Code](https://github.com/msk9912/Final_Project_15team)
 - Node.js, PostgreSQL
 - 피드 / 채팅 / 음원 스트리밍 기능의 음악 SNS 백엔드
