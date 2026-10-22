@@ -38,7 +38,6 @@
 ---
 
 ### 🤖 Multi-Agent AI Workspace
-**2026.06 · 한국소프트웨어산업협회(KOSA)**  
 `Vue 3` · `Python` · `LangGraph` · `MCP` · `Supabase pgvector`
 
 - A2A 기반 Multi-Agent 업무 지원 서비스
@@ -52,7 +51,6 @@
 ---
 
 ### 🚲 서울 공공자전거 데이터 분석 대시보드
-**2026.04 · 한국소프트웨어산업협회(KOSA)**  
 `Java 17` · `Spring Boot` · `Spring JDBC` · `Oracle` · `React`
 
 - Spring Boot와 Spring JDBC 기반 REST API 구현
